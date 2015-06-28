@@ -82,6 +82,7 @@ public class MainActivity extends Activity {
 				
 			}else if(v.getId()==R.id.load){
 				et.setText(mt.getData());
+//				test
 			}
 		}};
 
